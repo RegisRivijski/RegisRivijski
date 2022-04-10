@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RegisRivijski
 - 👀 I’m interested in game and web development
 - 🌱 I’m currently learning JavaScript and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on painting marketplace
+- 📫 I am currently working as a web developer at RIA.com
 
 <!---
 RegisRivijski/RegisRivijski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
