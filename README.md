@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RegisRivijski
 - 👀 I’m interested in game and web development
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently learning JavaScript and Java
 - 💞️ I’m looking to collaborate on painting marketplace
 - 📫 I am currently working as a web developer at RIA.com
 
