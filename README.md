@@ -14,13 +14,17 @@ I’m a web developer who loves turning ideas into reality through clean, effici
 I have developed multiple projects, including:
 
 1. **Gacha Simulator**
+
    A distributed system consisting of three microservices designed to simulate gacha mechanics inspired by games like Genshin Impact:
+
    - **[Gacha Simulator Telegram Bot](https://github.com/RegisRivijski/gacha-simulator-tg-bot)**: User-facing interface for performing gacha pulls and managing in-game profiles via Telegram.
    - **[Gacha Simulator REST API](https://github.com/RegisRivijski/gacha-simulator-rest)**: Core business logic for gacha mechanics and user data management.
    - **[Gacha Simulator Static Data](https://github.com/RegisRivijski/gacha-simulator-static-data)**: Manages character and weapon metadata, localized content, and banner images. 
 
-2. **[War Alert Telegram Bot](https://github.com/RegisRivijski/war-alert-tg-bot)**
+3. **[War Alert Telegram Bot](https://github.com/RegisRivijski/war-alert-tg-bot)**
+
    A Telegram bot designed to notify users about air raid alerts in Ukraine.
+
    - Sends real-time notifications about active alerts to the Telegram channel.
    - Provides a list of active and safe regions upon request.
    - Integrates with external APIs to fetch accurate and up-to-date alert data.
