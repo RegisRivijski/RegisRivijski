@@ -29,5 +29,3 @@ I have developed multiple projects, including:
    - Sends real-time notifications about active alerts to the Telegram channel.
    - Provides a list of active and safe regions upon request.
    - Integrates with external APIs to fetch accurate and up-to-date alert data.
-
-Each of these projects demonstrates my expertise in creating scalable and modular solutions using modern technologies like Node.js, Redis, and MongoDB.
