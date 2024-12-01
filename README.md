@@ -22,13 +22,11 @@ I have developed multiple projects, including:
    - **[Gacha Simulator Static Data](https://github.com/RegisRivijski/gacha-simulator-static-data)**: Manages character and weapon metadata, localized content, and banner images. 
    - **[Gacha Simulator Admin Frontend](https://github.com/RegisRivijski/gacha-simulator-admin-front)**: Admin panel for managing banners, promocodes, advertisements, and other system content. Built with Vue.js to provide an intuitive and user-friendly interface for administrators.
 
-2. **[War Alert Telegram Bot (github)](https://github.com/RegisRivijski/war-alert-tg-bot)** - [telegram](https://t.me/war_alert_now_bot)
+2. **War Alert** - [telegram](https://t.me/war_alert_now_bot)
 
-   A Telegram bot designed to notify users about air raid alerts in Ukraine.
+   A Telegram bot that notifies users about air raid alerts in Ukraine. It sends real-time updates, lists active and safe regions, and integrates with external APIs for accurate data.
 
-   - Sends real-time notifications about active alerts to the Telegram channel.
-   - Provides a list of active and safe regions upon request.
-   - Integrates with external APIs to fetch accurate and up-to-date alert data.
+   - **[War Alert Telegram Bot](https://github.com/RegisRivijski/war-alert-tg-bot)**: A monolithic bot built with **Telegraf**.
 
 3. **English IT Vocabulary** - [web application](https://artur-petrov.vinnica.ua/quiz/)
 
