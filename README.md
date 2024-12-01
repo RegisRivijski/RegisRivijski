@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RegisRivijski
+# Hi, I’m @RegisRivijski
 
 I’m a web developer who loves turning ideas into reality through clean, efficient, and scalable code. My passion lies in creating powerful backend systems and crafting seamless user experiences.
 
