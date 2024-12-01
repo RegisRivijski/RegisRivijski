@@ -20,6 +20,7 @@ I have developed multiple projects, including:
    - **[Gacha Simulator Telegram Bot](https://github.com/RegisRivijski/gacha-simulator-tg-bot)**: User-facing interface for performing gacha pulls and managing in-game profiles via Telegram.
    - **[Gacha Simulator REST API](https://github.com/RegisRivijski/gacha-simulator-rest)**: Core business logic for gacha mechanics and user data management.
    - **[Gacha Simulator Static Data](https://github.com/RegisRivijski/gacha-simulator-static-data)**: Manages character and weapon metadata, localized content, and banner images. 
+   - **[Gacha Simulator Admin Frontend](https://github.com/RegisRivijski/gacha-simulator-admin-front)**: Admin panel for managing banners, promocodes, advertisements, and other system content. Built with Vue.js to provide an intuitive and user-friendly interface for administrators.
 
 3. **[War Alert Telegram Bot (github)](https://github.com/RegisRivijski/war-alert-tg-bot)** - [telegram](https://t.me/war_alert_now_bot)
 
