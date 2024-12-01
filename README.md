@@ -11,7 +11,7 @@ I’m a web developer who loves turning ideas into reality through clean, effici
 
 ### Projects
 
-I have developed and contributed to multiple projects, including:
+I have developed multiple projects, including:
 
 1. **[Gacha Simulator](https://github.com/RegisRivijski)**  
    A distributed system consisting of three microservices designed to simulate gacha mechanics inspired by games like Genshin Impact:  
