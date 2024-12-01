@@ -13,7 +13,7 @@ I’m a web developer who loves turning ideas into reality through clean, effici
 
 I have developed multiple projects, including:
 
-1. **[Gacha Simulator](https://github.com/RegisRivijski)**  
+1. **Gacha Simulator**  
    A distributed system consisting of three microservices designed to simulate gacha mechanics inspired by games like Genshin Impact:  
    - **[Gacha Simulator Telegram Bot](https://github.com/RegisRivijski/gacha-simulator-tg-bot)**: User-facing interface for performing gacha pulls and managing in-game profiles via Telegram.  
    - **[Gacha Simulator REST API](https://github.com/RegisRivijski/gacha-simulator-rest)**: Core business logic for gacha mechanics and user data management.  
