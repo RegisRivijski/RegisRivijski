@@ -1,14 +1,25 @@
 # Hi, I’m @RegisRivijski
 
-I’m a web developer who loves turning ideas into reality through clean, efficient, and scalable code. My passion lies in creating powerful backend systems and crafting seamless user experiences.
+I’m a web developer passionate about creating efficient, scalable systems and intuitive user experiences.  
 
-### Projects
+---
 
-1. **Gacha Simulator** - [telegram](https://t.me/genshinGachaSimulatorBot)
+### **Featured Projects**
 
-   A distributed system consisting of three microservices designed to simulate gacha mechanics inspired by games like Genshin Impact:
+- **[Gacha Simulator Telegram Bot](https://github.com/RegisRivijski/gacha-simulator-tg-bot)**  
+  Multi-service Telegram bot for simulating gacha mechanics with ~300 daily active users.  
 
-   - **[Gacha Simulator Telegram Bot](https://github.com/RegisRivijski/gacha-simulator-tg-bot)**: Acts as a proxy, enabling the creation of multiple bots with distinct API keys while maintaining unified functionality and a shared database.
-   - **[Gacha Simulator REST API](https://github.com/RegisRivijski/gacha-simulator-rest)**: The main business logic of the application.
-   - **[Gacha Simulator Static Data](https://github.com/RegisRivijski/gacha-simulator-static-data)**: Creates static data for the main business logic service, such as characters, weapons, banner, prices, etc. Also responsible for rendering the images used in the bot.
-   - **[Gacha Simulator Admin Frontend](https://github.com/RegisRivijski/gacha-simulator-admin-front)**: Admin panel for managing banners, promocodes, advertisements, and other system content. Built with Vue.js to provide an intuitive and user-friendly interface for administrators.
+- **[Gacha Simulator REST API](https://github.com/RegisRivijski/gacha-simulator-rest)**  
+  Handles the core business logic for gacha simulations.  
+
+- **[Gacha Simulator Static Data](https://github.com/RegisRivijski/gacha-simulator-static-data)**  
+  Generates static content and renders dynamic images for bot interactions.  
+
+- **[Gacha Simulator Admin Frontend](https://github.com/RegisRivijski/gacha-simulator-admin-front)**  
+  Admin panel for managing content, built with Vue.js.  
+
+---
+
+### **Contact Me**
+- **Telegram**: [@artur_petrov_29](https://t.me/artur_petrov_29)  
+- **LinkedIn**: [Artur Petrov](https://www.linkedin.com/in/artur-petrov-a28818211/)  
