@@ -8,8 +8,7 @@ I’m a web developer who loves turning ideas into reality through clean, effici
 
    A distributed system consisting of three microservices designed to simulate gacha mechanics inspired by games like Genshin Impact:
 
-   - **[Gacha Simulator Telegram Bot](https://github.com/RegisRivijski/gacha-simulator-tg-bot)**: User-facing interface for performing gacha pulls and managing in-game profiles via Telegram.
-   - **[Gacha Simulator REST API](https://github.com/RegisRivijski/gacha-simulator-rest)**: Core business logic for gacha mechanics and user data management.
-   - **[Gacha Simulator Static Data](https://github.com/RegisRivijski/gacha-simulator-static-data)**: Manages character and weapon metadata, localized content, and banner images. 
+   - **[Gacha Simulator Telegram Bot](https://github.com/RegisRivijski/gacha-simulator-tg-bot)**: Acts as a proxy, enabling the creation of multiple bots with distinct API keys while maintaining unified functionality and a shared database.
+   - **[Gacha Simulator REST API](https://github.com/RegisRivijski/gacha-simulator-rest)**: The main business logic of the application.
+   - **[Gacha Simulator Static Data](https://github.com/RegisRivijski/gacha-simulator-static-data)**: Creates static data for the main business logic service, such as characters, weapons, banner, prices, etc. Also responsible for rendering the images used in the bot.
    - **[Gacha Simulator Admin Frontend](https://github.com/RegisRivijski/gacha-simulator-admin-front)**: Admin panel for managing banners, promocodes, advertisements, and other system content. Built with Vue.js to provide an intuitive and user-friendly interface for administrators.
-
