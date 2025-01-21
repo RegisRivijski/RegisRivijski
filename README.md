@@ -18,7 +18,10 @@ I’m a web developer passionate about creating efficient, scalable systems and 
   Generates static content and renders dynamic images for bot interactions.  
 
 - **[Gacha Simulator Admin Frontend](https://github.com/RegisRivijski/gacha-simulator-admin-front)**  
-  Admin panel for managing content, built with Vue.js.  
+  Admin panel for managing content, built with Vue.js.
+
+- **[Channel Automation Telegram Bot](https://github.com/RegisRivijski/channel-automation-tg-bot)**
+A Telegram bot for automating subreddit content sharing and promo code generation.
 
 ---
 
