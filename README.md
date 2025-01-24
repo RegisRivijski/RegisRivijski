@@ -9,7 +9,7 @@ I’m a web developer passionate about creating efficient, scalable systems and 
 #### **[Gacha Simulator](https://t.me/genshinGachaSimulatorEnBot)**  
 
 - **[Gacha Simulator Telegram Bot](https://github.com/RegisRivijski/gacha-simulator-tg-bot)**  
-  Multi-service Telegram bot for simulating gacha mechanics with ~300 daily active users.  
+  Multi-service Telegram bot for simulating gacha mechanics with ~900 daily active users.  
 
 - **[Gacha Simulator REST API](https://github.com/RegisRivijski/gacha-simulator-rest)**  
   Handles the core business logic for gacha simulations.  
