@@ -1,132 +1,51 @@
+# Artur Petrov
 
-<div align="center">
+Full Stack Developer · Vinnytsia, Ukraine
 
-# artur-petrov
+I write backends, infrastructure, and small products I actually use.
+Node.js, nginx, Linux — things that should run for years.
 
-`full stack developer` · `linux enthusiast` · `builder`
-
-<br />
-
-[![Website](https://img.shields.io/badge/artur--petrov.vinnica.ua-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://artur-petrov.vinnica.ua/)
-
-</div>
-
----
-
-```bash
-$ whoami
-artur-petrov
-
-$ cat /etc/profile
-Full Stack Developer
-Node.js · Linux · Infrastructure
-```
-
-I build backend services, personal tools,
-and small products that I actually use.
-
-I like systems that are simple, reliable,
-and stay useful long after they're built.
+[artur-petrov.vinnica.ua](https://artur-petrov.vinnica.ua/) · [ru](https://ru.artur-petrov.vinnica.ua/) · [en](https://en.artur-petrov.vinnica.ua/)
 
 ```text
-location    → Vinnytsia, Ukraine
-focus       → Backend · Infrastructure · Products
-environment → Linux · Docker · Self-hosting
+/                          Nuxt card · nine easter eggs
+/gacha-simulator/          Genshin wishes
+/hsr-gacha-simulator/      Star Rail warps
+/wuwa-gacha-simulator/     WuWa convenes
 ```
 
----
+The clock, the weather, and the air-raid status on `/` are Vinnytsia, live.
 
-## Projects
+## Gacha
 
-### ◈ Genshin Gacha Bot
+Three fan-made stacks. Same shape: Telegram bot, Mini App, REST, admin, catalog job. Pity matches the game.
 
-> A fan-made gacha simulator for Telegram.
+- [Genshin](https://artur-petrov.vinnica.ua/gacha-simulator/) — `/wish` · 160 primogems · pity 90 on characters, 80 on weapons
+- [Honkai: Star Rail](https://artur-petrov.vinnica.ua/hsr-gacha-simulator/) — `/warp` · 160 Stellar Jade · pity 90 on characters, 80 on light cones
+- [Wuthering Waves](https://artur-petrov.vinnica.ua/wuwa-gacha-simulator/) — `/convene` · 160 Astrite · pity 80, plus a [browser build](https://artur-petrov.vinnica.ua/wuwa-gacha-simulator/web/)
 
-A project built around game mechanics,
-user interactions, and a persistent backend.
+HoYoverse and Kuro Games are not involved.
 
-- Node.js / Telegraf
-- MongoDB / Redis
-- Telegram bot infrastructure
+## Channels
 
-[→ Explore the project](https://artur-petrov.vinnica.ua/gacha-simulator/)
+A scheduler fills five channels: memes, news, promo codes, banner albums.
 
----
+- [Harmony of Teyvat](https://t.me/harmony_of_teyvat)
+- [Созвездие А-VIII](https://t.me/Sozvezdiye_A_VIII)
+- [Эхо Солариса](https://t.me/Eho_Solarisa)
+- [Anime GIFs](https://t.me/Animme_GIF)
+- [Глазам не верю](https://t.me/glazamneveru)
 
-### ◈ Honkai: Star Rail Gacha
+[Повітряна Тривога Україна](https://t.me/warAlertTgUkraine) gets air-raid start and all-clear. The bot is [war-alert-tg-bot](https://github.com/RegisRivijski/war-alert-tg-bot).
 
-> Another universe. Same obsession with building.
+## Telegram
 
-A companion gacha simulator inspired by
-Honkai: Star Rail.
+[minecraft-tg-bot](https://github.com/RegisRivijski/minecraft-tg-bot) mirrors a Minecraft world into Telegram: server events, two-way chat, a pinned status, and operator commands over RCON.
 
-[→ Explore the project](https://artur-petrov.vinnica.ua/hsr-gacha-simulator/)
-
----
-
-### ◈ Personal Infrastructure
-
-> Servers should keep working when nobody is watching.
-
-Self-hosted services, Docker deployments,
-reverse proxies, and Linux-based infrastructure.
-
-```text
-nginx       [ online ]
-docker      [ online ]
-linux       [ running ]
-```
-
----
+[media-tg-bot](https://github.com/RegisRivijski/media-tg-bot) takes a YouTube, TikTok, or Instagram link and sends the file back. Long clips ask for the audio track and the resolution.
 
 ## Stack
 
-<div align="center">
+Node.js · Telegraf · Nuxt · Vue · nginx · Linux · Docker Compose · MongoDB · Redis · Telegram
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nuxt,vue,html,css,mongodb,redis,docker,linux,nginx,git&perline=7" />
-
-</div>
-
----
-
-## Currently
-
-```bash
-$ git status
-
-On branch main
-
-Changes not staged for commit:
-  modified: projects
-  modified: ideas
-  modified: infrastructure
-
-nothing is ever truly finished.
-```
-
-Exploring game development, improving
-my infrastructure, and turning ideas
-into working products.
-
----
-
-## Outside the code
-
-- 🏍️ Long rides on a Harley-Davidson
-- 🏕️ Camping and exploring
-- ♟️ Chess
-- 🎮 Game development
-
----
-
-<div align="center">
-
-### Build something useful.
-
-[Website](https://artur-petrov.vinnica.ua/)
-
-<br />
-
-<sub>© 2026 Artur Petrov</sub>
-
-</div>
+Learning to make games in Godot.
